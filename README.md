@@ -3,7 +3,7 @@
 An open hardware, open-source easy-to-use EEG simulator for testing &
 validating EEG amplifiers and performing hardware-in-the-loop EEG simulations
 
-[wfsa_award](media/wfsa-award.svg)
+![wfsa-award](media/wfsa-award.svg)
 
 EEGSIM is part of a suite of devices developed with support from the
 World Federation of Societies of Anesthesiologists (WFSA) Fresenius Kabi
