@@ -61,11 +61,6 @@ board is designed to be easy to hand solder with minimal tools, using 0805
 SMD components or larger. A soldering iron, tweezer and heat gun should
 be all that you need to get started building the board.
 
-The EEGSIM consists of two boards, a generic digitial io board and the
-EEGSIM board. The two boards sandwich together to form the complete system
-that can be controlled via USB Web Serial from a phone, tablet or desktop
-computer.
-
 ### Components
 
 | Ref | Description | Footprint/spec |
@@ -73,6 +68,12 @@ computer.
 | H1,H2 | Female header | 7 pos 0.1" / 2.54mm |
 | R5,R6 | 25M resistor | 1/8W 5% 0805 |
 | R1,R2,R3,R4 | 1.5K resistor  | 1/8W 5% 0805 |
+
+
+The EEGSIM consists of two boards, a generic digitial io board and the
+EEGSIM board. The two boards sandwich together to form the complete system
+that can be controlled via USB Web Serial from a phone, tablet or desktop
+computer.
 
 Please note that this repository only contains the EEGSIM board that
 interfaces to the EEG electrodes, not the digital io board that interfaces to
@@ -88,8 +89,6 @@ Arduino toolchain, the Seeeduino XIAO libraries and the TinyUSB stack
 version 0.10.5 (no later version).
 
 ## Free & Open Source
-
-![open-source](media/open-source.svg)
 
 EEGSIM is free for all to use under the liberal MIT license.
 
