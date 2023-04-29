@@ -9,7 +9,7 @@ EEGSIM is part of a suite of devices developed with support from the
 World Federation of Societies of Anesthesiologists (WFSA) Fresenius Kabi
 Innovation Award.
 
-[eegsim_board](media/eegsim.png)
+![eegsim](media/eegsim.jpg)
 
 ## Features & Specifications
 
@@ -28,7 +28,7 @@ Innovation Award.
 
 ## Block diagram
 
-[eegsim_blockdiagram](media/eegsim-blockdiagram.png)
+![eegsim-blockdiagram](media/eegsim-blockdiagram.png)
 
 ## Comparison Table
 
@@ -89,7 +89,7 @@ version 0.10.5 (no later version).
 
 ## Free & Open Source
 
-[open_source](media/open-source.svg)
+![open-source](media/open-source.svg)
 
 EEGSIM is free for all to use under the liberal MIT license.
 
@@ -102,7 +102,7 @@ interfacing to such stickers.
 
 ## Disclaimers
 
-1. This device is not a medical device nor is it intended for medical
+- This device is not a medical device nor is it intended for medical
 diagnosis and the design is provided to you "as is". Respiire Health
 Systems Inc. makes no express or implied warranties whatsoever with
 respect to its functionality, operability, or use, including, without
@@ -114,13 +114,13 @@ business interruption or loss of data, regardless of the form of action
 or legal theory under which the liability may be asserted, even if advised
 of the possibility of such damages.
 
-2. This device is intended for use for engineering development, demonstration,
+- This device is intended for use for engineering development, demonstration,
 or evaluation purposes only and is not considered by Respiire Health Systems
 Inc. to be a finished end-product fit for general consumer use. Persons
 handling the device must have electronics and biomedical training and
 observe good engineering practice standards. 
 
-3. This device is a prototyping board and not intended to be complete
+- This device is a prototyping board and not intended to be complete
 in terms of required design-, marketing-, and/or manufacturing-related
 protective considerations, including product safety and environmental
 measures typically found in commercial end products that incorporate such
